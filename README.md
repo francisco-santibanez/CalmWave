@@ -1,4 +1,4 @@
-# 🚘🌫️ LowVis
+# ❤️ CalmWave
 
 ## PRO1-grupp 4
 Sensorer: biometriska sensorer
