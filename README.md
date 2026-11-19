@@ -1,7 +1,7 @@
 # 🚘🌫️ LowVis
 
 ## PRO1-grupp 4
-Sensorer: rörelsesensorer och ljussensorer
-Användare: trafikanter på landsvägar/ensliga vägar
+Sensorer: biometriska sensorer
+Användare: ungdomar
 
-Beskrivning: lyktstolpar tänds när bilar närmar sig och släcks efter att bilarna passerat. 
+Beskrivning: För att mäta stress och ångest och förhindra stressiga situationer. Lära oss om hur processen för ungdomar är genom deras skol period.
