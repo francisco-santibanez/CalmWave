@@ -4,4 +4,4 @@
 Sensorer: rörelsesensorer och ljussensorer
 Användare: trafikanter på landsvägar/ensliga vägar
 
-Beskrivning:
+Beskrivning: gatulampor tänds när bilar närmar sig och släcks efter att bilarna passerat. 
