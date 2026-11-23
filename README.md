@@ -18,3 +18,7 @@ När sensorerna registrerar förhöjd puls och stressnivå skickas en notis till
 Målgruppen består av diagnostiserade ungdomar som har ökad risk för stress och stigande puls i vardagen, samt deras lärare och föräldrar som fungerar som stödjande vuxna. Analysen av användarnas behov driver designen mot ett armband som är säker och diskret för ungdomen, kombinerat med tydliga och lättolkade notiser som ger lärare och föräldrar ett konkret beslutsstöd i stunden
 
 
+## NOTES
+
+### Här länkar vi till det vi kan behöva till projektet
+
