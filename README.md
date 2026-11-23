@@ -22,3 +22,11 @@ Målgruppen består av diagnostiserade ungdomar som har ökad risk för stress o
 
 ### Här länkar vi till det vi kan behöva till projektet
 
+Komponent
+https://my.cytron.io/p-max30102-oximeter-and-heart-rate-sensor-module?__cf_chl_tk=WE9ywdMSIFLggGgxTEfMMT2Pv2llnGd4fq.MyAoAh_w-1795442104-1.0.1.1-uuKyQU8CWGwzyVDxoX8MJveLnq3p7LY6bhjqh_Ou7co
+This is a small MAX30102 Oximeter and Heart Rate Sensor Module for you to try!
+
+The module is based on the MAX30102 chip and communicates via the I2C interface. MAX30102 is a complete system solution that facilitates the design process of mobile devices and wearable devices. The MAX30102 is integrated pulse oximetry and a heart-rate monitor module. It includes internal LEDs, photodetectors, optical elements, and low-noise electronics with ambient light rejection.
+
+The MAX30102 operates on a single 1.8V power supply and a separate 3.3V power supply for the internal LEDs. Communication is through a standard I2C-compatible interface. The module can be shut down through software with zero standby current, allowing the power rails to remain powered at all times
+
