@@ -1,22 +1,51 @@
 # ❤️ CalmWave | Projektbeskrivning
 
 
-## Sensorer
+## Syfte
 
-Armbandet använder biometriska sensorer – bland annat för puls, pulsvariabilitet och hudkonduktans – tillsammans med rörelsesensor och låsmekanism som enbart kan låsas upp av barnets lärare eller förälder. Sensorerna fångar kroppens fysiologiska reaktioner och stressnivå i realtid och filtrerar bort vanlig fysisk aktivitet så att systemet reagerar på stress eller pressade situationer.
+CalmWave är ett digitalt stödsystem som utvecklas för ungdomar med ADHD. Syftet är att hjälpa lärare att uppmärksamma fysiologiska förändringar som kan vara kopplade till stress eller överbelastning under skoldagen. Genom att samla in och visualisera kroppsliga signaler kan systemet ge lärare bättre förutsättningar att förstå nä en elev eventuellt behöver en paus, anpassning eller extra stöd.
 
-## Kontext
+CalmWave ska fungera som ett kompletterande stöd och inte som ett verktyg för att diagnotisera ADHD.
 
-Systemet är utformat för vardagen i skolan och hemmiljön, där ljudnivåer, krav, övergångar mellan moment och otydliga signaler ofta gör det svårt att upptäcka begynnande stress i tid. Låsfunktionen och de riktade notiserna skapar en trygg ram kring användingen under skoldagen så att stöd kan sättas in i rätt miljö utan att förlita sig på att ugndomen själv hinner be om hjälp.
+## Sensorer och teknik
 
-## Kunskap
+Systemet ska använda sensorer för att samla in information om kropppens reaktioner:
 
-När sensorerna registrerar förhöjd puls och stressnivå skickas en notis till lärare och föräldrar som omvandlar rå sensordata till tydlig, handlingsbar kunskap, Lärare och föräldrar får i stunden veta när ungdomen behöver hjälp, en paus eller extra stöd under dagen, samtidigt som mönster över tid synliggör vilka situationer som skapar återkommande belastning.
+- Pulssensor: mäter hjärtfrekvensen.
+- HRV: undersöker variation mellan hjärtslagen.
+- Rörelsesensor: registerar fysisk aktivitet för att ge mer sammanhang till mätningarna.
+- EDA-sensor: kan mäta förändringar i hudens elektriska aktivitet.
 
-## Användare
+Genom att kombinera olika mätvärden kan systemet uppmärksamma förändringar som eventuellt kan vara kopplade till stress eller överbelastning. Mätvärden kan däremot inte ensamma avgöra vad eleven känner.
 
-Målgruppen består av diagnostiserade ungdomar som har ökad risk för stress och stigande puls i vardagen, samt deras lärare och föräldrar som fungerar som stödjande vuxna. Analysen av användarnas behov driver designen mot ett armband som är säker och diskret för ungdomen, kombinerat med tydliga och lättolkade notiser som ger lärare och föräldrar ett konkret beslutsstöd i stunden
+## Användare och sammanhang
 
+Den primära målgruppen är ungdomar med ADHD i skolmiljö. Eftersom ADHD påverkar individer på olika sätt har eleverna olika behov och kan reagera olika på exempelvis ljud, sociala situationer, skoluppgifter och förändringar i vardagen.
+
+De sekundära användarna är lärare/vårdnadshavare och annan ansvarig skolperson som kan använda informationen för att bättre förstå elevens behov och de stöd vid rätt tillfälle.
+
+## Visualisering och information
+
+Informationen från sensorerna ska visas i en digital dashboard som är anpassad för lärare. 
+
+Dashboarden ska innehålla:
+
+- En graf som visar elevens puls över tid.
+- En översikt över förändringar i kroppens mätvärden under skoldagen.
+- Tydlig färgmarkeringar när värden avviker från elevens vanliga nivå.
+- Notiser som uppmärksammar läraren på förändringar som kan behöva följas upp.
+
+Exempel på en notis kan vara: "Förändringar i elevens mätvärden har registrerat. Kontrollera om eleven behöver stöd eller en paus".
+
+## Från data till kunskap
+
+Genom att omvandla sensordata till tydliga grafer och information kan CalmWave hjälpa lärare att upptäcka mönster och förändringar över tid. Informationen kan användas som ett underlag för samtal med eleven och för att förstå vilka situationer som eventuellt kan innebära ett större behov av stöd.
+
+Systemet ska ta hänsyn till att varje elev är individuell. Därför ska mätvärden jämföras med elevens egna vanliga nivåer istället för att använda samma gränsvärden för alla.
+
+## Teknisk utveckling
+
+Vi kommer att undersöka vilka sensorer som passar bäst för projektet och hur de kan kopplas till en digital visualisering med JavaScript.
 
 ## NOTES
 
